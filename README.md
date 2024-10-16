@@ -1,1 +1,6 @@
 # infoysis-springboard
+Infosys Springboard is a flagship learning platform focused on digital learning and reskilling, forming part of Infosys' Corporate Social Responsibility (CSR) initiatives. It aims to provide learners with critical 21st-century digital skills, particularly in emerging technologies and life skills. Powered by the Infosys Wingspan platform, Springboard offers diverse educational resources, partnering with educational institutions like Coursera and Harvard Business Publishing.
+
+Springboard is designed to serve various regions, such as India, where the platform supports learners from grade 6 onwards, and the USA, where it provides K-12 and professional upskilling programs. The content spans fields like machine learning, data science, and Python programming, featuring hands-on projects, data visualization, and certifications to track progress.
+
+For more specific examples, learners can explore repositories that include projects on machine learning and Python-based data analysis and visualization. These repositories, often shared by users documenting their own learning experiences, include code samples, projects, and resources useful for personal development in the field​
